@@ -1,0 +1,58 @@
+
+body{
+
+}
+
+.clearfix{
+	clear:both;
+}
+
+.header{
+	padding-top: 25px;
+    padding-right: 15px;
+    
+}
+
+.content .google-logo{
+	padding-top: 10px;
+	
+}
+
+
+
+.header nav{
+    float: right;
+    justify-content: right;
+    align-content: flex-end;
+}
+
+.header nav ul li{
+	list-style-type: none;
+	display:inline;
+    padding-left: 10px;
+    justify-content: right;
+}
+
+.header nav ul li a{
+	color: #000;
+    text-decoration: none;
+    
+	
+}
+
+.header nav ul li a:hover{
+	border-bottom: 1px solid #000;
+	
+}
+
+.header nav ul li .sign-in{
+	background: #4405P3;
+	padding: 7px 12px;
+	border-radius: 2px 2px 2px;
+	collor: #fff;
+	
+}
+
+content .google-logo{
+	padding-top: 100px;
+}
